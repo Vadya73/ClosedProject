@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 514a7db5b4af45df950f4571bb2cd9f0, type: 3}
+  m_Name: 5_Biosynthetics
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: 466c9911c8d65584ab56584056030b98, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: _skillPointData
+      Entry: 10
+      Data: 0
+  _skillType: 0
+  _addSkillType: 0
+  _name: Biosynthetics
+  _description: "\u0421\u0430\u043C\u043E\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u0430\u0432\u043B\u0438\u0432\u0430\u044E\u0449\u0438\u0439\u0441\u044F,
+    \u043F\u0440\u0435\u043C\u0438\u0430\u043B\u044C\u043D\u044B\u0439 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B."
+  _walletType: 0
+  _cost: 10000
+  _requiredResearchBubbles: 700
+  _skillSprite: {fileID: 21300000, guid: 4ffc735a03ba2f4449c69ff634b53f26, type: 3}

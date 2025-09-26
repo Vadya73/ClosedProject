@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17e173be37024f2aaa2fc151bf4dd501, type: 3}
+  m_Name: _PlayerConfig
+  m_EditorClassIdentifier: 
+  _bubbleConfig: {fileID: 11400000, guid: 88418d6cfbea4e64ca55d5e602034876, type: 2}
+  _1LevelLeaderboardConfig: {fileID: 11400000, guid: fd421e1ac74aa5c439e73430353cf2f4, type: 2}
+  _robotNamesConfig: {fileID: 11400000, guid: 66fe47d1c8af60a4e8ce9209203f442b, type: 2}
+  _aiDataConfig: {fileID: 11400000, guid: 5d4c9a60112b627439810b737375488a, type: 2}
+  _bubblePrefab: {fileID: 530992448062032261, guid: c8e02c976a018cf4c97879f44d9545d1, type: 3}
+  _taskViewPrefab: {fileID: 8516242283791416790, guid: 8fc1498bf72719841a17f40644aba044, type: 3}
+  _saleGraphPrefab: {fileID: 3123609760922091533, guid: 189db542d52b9b74e8ba933675355f92, type: 3}
+  _buildRobotData:
+    _playerHaveRobotSubtypes: -1023
+    _allHaveMaterials:
+    - {fileID: 11400000, guid: a504b03d966a3d24d8bc6a79d0c487b1, type: 2}
+    _allHaveChip: []
+    _allHaveEngine: []
+    _allHaveBattery: []
+    _addons: []
+  _trainingAIData:
+    _allHaveDatasets: []
+    _allHaveNetworkArchitecture: []
+    _allHaveModelSize: []
+    _allHaveTrainingMethods: []
+    _addons: []
+  _locationsData:
+    _allHaveLocations: []
+  _dataCenterData:
+    _allHaveDataCenterLevelsThirdLevel: []
+    _allHaveDataCenterLevelsFourLevel: []
+  _currentQuests: []

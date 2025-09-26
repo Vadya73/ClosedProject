@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf1b607ea79328d4d9f9e27d0354d4c6, type: 3}
+  m_Name: Ariana Graderi_WorkerConfig
+  m_EditorClassIdentifier: 
+  _workerData:
+    _isPlayer: 0
+    _name: Ariana Garderi
+    _description: 
+    _avatar: {fileID: 21300000, guid: abceea6dedf80d845ab34b214ea0a347, type: 3}
+    _defaultSalary: 100
+    _currentCurrentSalary: 0
+    _stats:
+      MaxLevel: 30
+      DataScienceWalletType: 0
+      DataScienceDefaultUpgradeCost: 100
+      DataScienceLevel: 1
+      TechnologyWalletType: 0
+      TechnologyDefaultUpgradeCost: 100
+      TechnologyLevel: 1
+      DesignWalletType: 0
+      DesignDefaultUpgradeCost: 100
+      DesignLevel: 1
+      ResearchWalletType: 0
+      ResearchDefaultUpgradeCost: 100
+      ResearchLevel: 1
+    _buildRobotBubbleCooldown: -0.016187929
+    _trainingAiBubbleCooldown: 0
+    _researchBubbleCooldown: 0
+  _workerPrefab: {fileID: 2786874801172852671, guid: 162ee6d0aacd4bc499fc7fa64902fc90, type: 3}

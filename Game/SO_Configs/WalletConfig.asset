@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 666d2d8594f4472b846e245b4b19ac72, type: 3}
+  m_Name: WalletConfig
+  m_EditorClassIdentifier: 
+  _walletData:
+    _cashCount: 200
+    _tokensCount: 0
+    _greenCardCount: 0
+    _purpleCardCount: 0
+    _cashIcon: {fileID: 21300000, guid: acc5f7aa2b7958049a54b5e9f2ad693f, type: 3}
+    _tokensIcon: {fileID: 21300000, guid: 735e94efa3248f4499d2e0faf3d4dbf9, type: 3}
+    _mythicalIcon: {fileID: 21300000, guid: e7a6835f7e938c94290b4eda22509684, type: 3}
+    _legendaryIcon: {fileID: 21300000, guid: c6f10efb1afad2e4792b07e5f1cc1566, type: 3}

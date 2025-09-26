@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60ec42392b014335a5e610d5d6e19f31, type: 3}
+  m_Name: 2_NetworkArchitecture_CNN
+  m_EditorClassIdentifier: 
+  _name: CNN
+  _additionalDaysToCreateRobot: 20
+  _additionalBubblePointsToRobot: 30
+  _type: 1
+  _influenceOnChars:
+    Accuracy: 0
+    Flexibility: 40
+    Stability: 0
+    Adaptiveness: 0

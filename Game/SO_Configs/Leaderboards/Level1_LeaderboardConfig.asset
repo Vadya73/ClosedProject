@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3a4621f680f4a5dab0f73907b36cc0b, type: 3}
+  m_Name: Level1_LeaderboardConfig
+  m_EditorClassIdentifier: 
+  _aiLeaderboardData:
+    _entrys:
+    - positionInLeaderboard: 1
+      entryName: MetaHue
+      score: 97
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 2
+      entryName: NexAI
+      score: 96
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 3
+      entryName: Quantideep
+      score: 81
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 4
+      entryName: DeepMuse
+      score: 80
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 5
+      entryName: EchoPilot
+      score: 78
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 6
+      entryName: SentraMind
+      score: 59
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 7
+      entryName: Parallax Core
+      score: 57
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 8
+      entryName: Neurobyte
+      score: 49
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 9
+      entryName: NovaScope
+      score: 46
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 10
+      entryName: ALTEZZA
+      score: 43
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 11
+      entryName: Sparkline
+      score: 41
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 12
+      entryName: Synthmind
+      score: 41
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 13
+      entryName: Blackcell
+      score: 39
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 14
+      entryName: Oblivion Node
+      score: 38
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 15
+      entryName: Corelith
+      score: 17
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 16
+      entryName: Logiq.AI
+      score: 14
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 17
+      entryName: IntuNet
+      score: 13
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 18
+      entryName: Zypher
+      score: 11
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+  _robotsLeaderboardData:
+    _entrys:
+    - positionInLeaderboard: 1
+      entryName: Zenith Robotics
+      score: 98
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 2
+      entryName: MotionMatter Inc.
+      score: 98
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 3
+      entryName: AxonFrame Ltd.
+      score: 92
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 4
+      entryName: NeuroMech Systems
+      score: 89
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 5
+      entryName: KinetIQ Industries
+      score: 79
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 6
+      entryName: AndroForge
+      score: 77
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 7
+      entryName: NovaLimb Robotics
+      score: 75
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 8
+      entryName: BioCore Mechs
+      score: 69
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 9
+      entryName: MorphoDrive
+      score: 64
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 10
+      entryName: NextSim Robotics
+      score: 62
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 11
+      entryName: Evolux Dynamics
+      score: 43
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 12
+      entryName: HumanoTech
+      score: 41
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 13
+      entryName: ProtoHuman Lab
+      score: 39
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 14
+      entryName: Vertex Automata
+      score: 35
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 15
+      entryName: OmniSynth
+      score: 33
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 16
+      entryName: MechaForm
+      score: 28
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 17
+      entryName: Cyberial Works
+      score: 21
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 18
+      entryName: Mimica Corp
+      score: 17
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 19
+      entryName: SynthCore Robotics
+      score: 12
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0
+    - positionInLeaderboard: 20
+      entryName: RoboNexis
+      score: 4
+      avatar: {fileID: 0}
+      isPlayerEntrys: 0

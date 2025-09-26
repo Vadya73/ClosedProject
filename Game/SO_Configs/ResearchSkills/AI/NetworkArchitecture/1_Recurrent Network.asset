@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 514a7db5b4af45df950f4571bb2cd9f0, type: 3}
+  m_Name: 1_Recurrent Network
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: e89058386c77b4e4285b851a8cb22ce2, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: _skillPointData
+      Entry: 10
+      Data: 0
+  _skillType: 6
+  _addSkillType: 2
+  _name: Recurrent Network
+  _description: "\u041F\u0440\u043E\u0441\u0442\u0430\u044F, \u043F\u043E\u0434\u0445\u043E\u0434\u0438\u0442
+    \u0434\u043B\u044F \u043B\u0438\u043D\u0435\u0439\u043D\u044B\u0445 \u0437\u0430\u0434\u0430\u0447."
+  _walletType: 0
+  _cost: 200
+  _requiredResearchBubbles: 25
+  _skillSprite: {fileID: 21300000, guid: 4ffc735a03ba2f4449c69ff634b53f26, type: 3}

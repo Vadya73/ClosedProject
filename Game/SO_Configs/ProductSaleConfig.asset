@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c89d0dfe28e4219bff83aa51b271b69, type: 3}
+  m_Name: ProductSaleConfig
+  m_EditorClassIdentifier: 
+  _currentSaleProducts: []
+  _productSaleSettingData:
+  - RobotSubtype: 1
+    CountLess30:
+      x: 1
+      y: 20
+    CountLess60:
+      x: 20
+      y: 30
+    CountLess90:
+      x: 30
+      y: 40
+    CountMore90:
+      x: 40
+      y: 60
+  - RobotSubtype: 2
+    CountLess30:
+      x: 50
+      y: 60
+    CountLess60:
+      x: 60
+      y: 70
+    CountLess90:
+      x: 70
+      y: 80
+    CountMore90:
+      x: 80
+      y: 100
+  - RobotSubtype: 4
+    CountLess30:
+      x: 30
+      y: 40
+    CountLess60:
+      x: 40
+      y: 50
+    CountLess90:
+      x: 50
+      y: 60
+    CountMore90:
+      x: 60
+      y: 80
+  - RobotSubtype: 8
+    CountLess30:
+      x: 70
+      y: 80
+    CountLess60:
+      x: 80
+      y: 90
+    CountLess90:
+      x: 90
+      y: 100
+    CountMore90:
+      x: 100
+      y: 120
+  - RobotSubtype: 16
+    CountLess30:
+      x: 120
+      y: 130
+    CountLess60:
+      x: 130
+      y: 140
+    CountLess90:
+      x: 140
+      y: 150
+    CountMore90:
+      x: 150
+      y: 170
+  - RobotSubtype: 32
+    CountLess30:
+      x: 0
+      y: 0
+    CountLess60:
+      x: 0
+      y: 0
+    CountLess90:
+      x: 0
+      y: 0
+    CountMore90:
+      x: 0
+      y: 0
+  - RobotSubtype: 64
+    CountLess30:
+      x: 0
+      y: 0
+    CountLess60:
+      x: 0
+      y: 0
+    CountLess90:
+      x: 0
+      y: 0
+    CountMore90:
+      x: 0
+      y: 0
+  - RobotSubtype: 128
+    CountLess30:
+      x: 0
+      y: 0
+    CountLess60:
+      x: 0
+      y: 0
+    CountLess90:
+      x: 0
+      y: 0
+    CountMore90:
+      x: 0
+      y: 0
+  - RobotSubtype: 256
+    CountLess30:
+      x: 0
+      y: 0
+    CountLess60:
+      x: 0
+      y: 0
+    CountLess90:
+      x: 0
+      y: 0
+    CountMore90:
+      x: 0
+      y: 0
+  - RobotSubtype: 512
+    CountLess30:
+      x: 0
+      y: 0
+    CountLess60:
+      x: 0
+      y: 0
+    CountLess90:
+      x: 0
+      y: 0
+    CountMore90:
+      x: 0
+      y: 0

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf1b607ea79328d4d9f9e27d0354d4c6, type: 3}
+  m_Name: Scarlet_WorkerConfig
+  m_EditorClassIdentifier: 
+  _workerData:
+    _isPlayer: 0
+    _name: Scarlet
+    _description: 
+    _avatar: {fileID: 21300000, guid: 8059376caee5177458f6d01d367559ea, type: 3}
+    _defaultSalary: 100
+    _currentCurrentSalary: 0
+    _stats:
+      MaxLevel: 30
+      DataScienceWalletType: 0
+      DataScienceDefaultUpgradeCost: 100
+      DataScienceLevel: 1
+      TechnologyWalletType: 0
+      TechnologyDefaultUpgradeCost: 100
+      TechnologyLevel: 1
+      DesignWalletType: 0
+      DesignDefaultUpgradeCost: 100
+      DesignLevel: 1
+      ResearchWalletType: 0
+      ResearchDefaultUpgradeCost: 100
+      ResearchLevel: 1
+    _buildRobotBubbleCooldown: 0.05026277
+    _trainingAiBubbleCooldown: 0
+    _researchBubbleCooldown: 0
+  _workerPrefab: {fileID: 2786874801172852671, guid: ec0a019de91aa29419f3e177d282617b, type: 3}

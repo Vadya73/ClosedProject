@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 750e0e8264ab4135a7088ec1e825e7c8, type: 3}
+  m_Name: SoundConfigs
+  m_EditorClassIdentifier: 
+  _defaultClickSound: {fileID: 8300000, guid: c0f194c7f02021e44a581001fabf7101, type: 3}
+  _shopPurchaseSound: {fileID: 8300000, guid: 30d8964793edfc340b2aba9a662958c2, type: 3}
+  _teammateUpgradeSound: {fileID: 8300000, guid: 8ffd4620215764c45834455cd34e170a, type: 3}
+  _completeProduction: {fileID: 8300000, guid: 7ee6ee5d1cb3ea34ca5236d497c6913f, type: 3}
+  _notificationSound: {fileID: 8300000, guid: f2c05b3b92ceffa4abe2e46d16d3d6a8, type: 3}
+  _addCashSound: {fileID: 8300000, guid: 4923534a98ae4cd499aa588e25cb9841, type: 3}
+  _addTokensSound: {fileID: 8300000, guid: db888a8a4650a8547b9865a8e75b9ee1, type: 3}
